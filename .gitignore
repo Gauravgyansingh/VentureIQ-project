@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+models/*.joblib
+models/*.json
+models/*.md
+models/rag_index/
+data/*.csv
+data/*.sqlite3
+.pytest_cache/
+.ruff_cache/
+dist/
+build/

@@ -1,0 +1,4 @@
+# Optional: semantic (embedding) retrieval. Large download (PyTorch). The app works without these,
+# using BM25 lexical retrieval only.
+sentence-transformers>=3.0
+faiss-cpu>=1.8
